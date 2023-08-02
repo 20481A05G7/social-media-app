@@ -1,0 +1,36 @@
+
+li{
+    list-style-type: none;
+    float: left;
+    margin-left:30px;
+    padding-left:10px;
+}
+li:hover{
+    color:blueviolet;
+    font-size: larger;
+    font-weight: bold;
+    font-style:calc()
+}
+.log{
+    margin-left:200px;
+    margin-top:200px;
+    width:300px;
+    border:blue;
+    background-color:lightblue;
+
+}
+.log input{
+    padding-top:8px;
+    margin-top:20px;
+    margin-left: 55px;
+}
+.log h2{
+    margin-left:100px;
+    color: aliceblue;
+}
+.j{
+    background-color: black;
+    width:20px;
+    height:100px;
+    margin-left:580px;
+}
